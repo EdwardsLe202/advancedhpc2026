@@ -27,7 +27,11 @@ Project
     * Don't copy paste from your friends. I have my own similarity checking tool. *I kill friendships*.
     * Responsible AI support. I will interview personally and directly, if I suspect abuse of AI usage.
 
+* Deadline: 23:59, Sunday, October 11th 2026.
+    * Hard deadline. No extension at all.
+    * I will get the latest commit which is before the above deadline.
     
+
 Non-local means extras:
 ==========================
 
